@@ -1,6 +1,5 @@
 # NLP-ML-Classifier
 ## Agenda
-
 1.Read data(Spam/Ham data)  
 2.Pre-processing: Implementing a pipeline to clean text    
       •Remove punctuation  
