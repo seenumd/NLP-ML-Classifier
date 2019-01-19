@@ -1,11 +1,11 @@
-# NLP-ML-Classifier
+# NLP: Mail text classification into spam or ham 
 ## Agenda
  1. Read data(Spam/Ham data)   
  2. Pre-processing: Implementing a pipeline to clean text    
      - **Remove punctuation**   
      - **Tokenization**   
      - **Remove stopwords**    
-     - **Stem/Lemmatize**    
+     - **Stem and Lemmatize**    
  3. Feature Engineering     
      - Feature Creation   
      - Feature Transformation    
